@@ -1,0 +1,30 @@
+{
+  "name": "sandbox",
+  "homepage": "",
+  "authors": [
+    "João Duarte <duarte.jpdl@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "Copyright",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/dependecies",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.3",
+    "angular-ui-router": "^0.2.18",
+    "angular-sanitize": "^1.5.3",
+    "angular-filter": "^0.5.8",
+    "bootstrap": "^3.3.6",
+    "angular-bootstrap": "^1.2.5"
+  },
+  "resolutions": {
+    "angular": "^1.5.3"
+  }
+}
